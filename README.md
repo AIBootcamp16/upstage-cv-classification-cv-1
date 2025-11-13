@@ -23,7 +23,7 @@
 
 ### Timeline
 
-2025. 10. 31 ~ 2025. 11.12
+2025년 10월 31일 부터 11월 12일까지.
 
 ## 2. Components
 
@@ -119,6 +119,11 @@ test datasets 이미지 레이아웃 확인
 <img width="720" height="1085" alt="image" src="https://github.com/user-attachments/assets/35914120-c137-44d9-93ca-c27a22ce2ad3" />
 
 <img width="433" height="241" alt="image" src="https://github.com/user-attachments/assets/6a3946c0-ee8c-4f30-85fc-c595bbbb01e6" />
+
+<img width="1120" height="630" alt="image" src="https://github.com/user-attachments/assets/1fa9eb8d-ce49-4af5-8812-cb7036e4b142" />
+<img width="1190" height="517" alt="image" src="https://github.com/user-attachments/assets/e0cbf824-b846-4d34-9ad2-476cf6c3975f" />
+
+
 
 
 
