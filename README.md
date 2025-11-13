@@ -1,10 +1,10 @@
-# Title (Please modify the title)
+# CV 경진대회
 ## Team
 
 | ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [박준수](https://github.com/UpstageAILab)             |            [손은혜](https://github.com/UpstageAILab)             |            [임환석](https://github.com/UpstageAILab)             |            [황은혜](https://github.com/UpstageAILab)             |            [윤소영](https://github.com/UpstageAILab)             |
-|                            팀장, 모델링 및 데이터 분석                             |                            모델링 및 데이터 분석                             |                            담당 역할                             |                            발표자료 작성 도움
+|                            팀장, 모델링 및 데이터 분석                             |                            모델링 및 데이터 분석                             |                            모델링 및 데이터 분석                             |                            발표자료 작성 도움
                           
 
 ## 0. Overview
