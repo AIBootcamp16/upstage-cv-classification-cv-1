@@ -115,8 +115,9 @@ test datasets 이미지 레이아웃 확인
 
 ### Meeting Log
 
-- _Insert your meeting log link like Notion or Google Docs_
+<img width="720" height="1085" alt="image" src="https://github.com/user-attachments/assets/35914120-c137-44d9-93ca-c27a22ce2ad3" />
 
-### Reference
+<img width="433" height="241" alt="image" src="https://github.com/user-attachments/assets/6a3946c0-ee8c-4f30-85fc-c595bbbb01e6" />
 
-- _Insert related reference_
+
+
