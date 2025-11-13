@@ -69,6 +69,16 @@
 ## 3. Data descrption
 
 ### Dataset overview
+전반적인 데이터셋의 이미지들 확인 
+FiftyOne 이용
+다른 클래스의 이미지와의 레이아웃 키워드 차이 확인
+
+<img width="928" height="361" alt="image" src="https://github.com/user-attachments/assets/285f3bf2-34a4-4e63-b7ff-79ca431deebb" />
+
+
+
+
+### EDA
 
 train datasets 이미지 레이아웃 확인 
 객체 이미지 + 문서이미지
@@ -79,14 +89,6 @@ test datasets 이미지 레이아웃 확인
 
 <img width="1033" height="264" alt="image" src="https://github.com/user-attachments/assets/496940bc-3746-4f05-8adf-4763daafb983" />
 
-
-### EDA
-
-- _Describe your EDA process and step-by-step conclusion_
-
-### Data Processing
-
-- _Describe data processing process (e.g. Data Labeling, Data Cleaning..)_
 
 ## 4. Modeling
 
