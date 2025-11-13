@@ -9,10 +9,11 @@
 
 ## 0. Overview
 ### Environment
-- _Write Development environment_
+- 주피터 노트북
+- Upstage GPU
 
 ### Requirements
-- _Write Requirements_
+- GPU
 
 ## 1. Competiton Info
 
@@ -22,7 +23,7 @@
 
 ### Timeline
 
-- 2025. 10. 31 ~ 2025. 11.12
+2025. 10. 31 ~ 2025. 11.12
 
 ## 2. Components
 
